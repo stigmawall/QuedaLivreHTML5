@@ -375,7 +375,7 @@ var QuedaLivre;
         MainGame.prototype.onFinishLoadAssets = function () {
             this.game.load.onLoadComplete.remove(this.onFinishLoadAssets, this);
             this.bg = this.game.add.image(0, 0, "bg");
-            this.bg.alpha = 0;
+            this.bg.alpha = 1;
             this.monster = this.game.add.sprite(0, 120, "monster", 0);
             this.monster.animations.add("fly", Phaser.Animation.generateFrameNames('monstro_animado_novo', 1, 67, '.png', 4), 24, true);
             this.monster.animations.add("lose", Phaser.Animation.generateFrameNames('monstro_animado_novo', 68, 109, '.png', 4), 24, false);
@@ -401,7 +401,7 @@ var QuedaLivre;
             this.audio_hit = this.game.add.audio('sfx_acerto');
             this.audio_miss = this.game.add.audio('sfx_erro');
             this.game_started = true;
-            this.add.tween(this.bg).to({ alpha: 1 }, 1000, Phaser.Easing.Bounce.InOut, true);
+            //this.add.tween(this.bg).to({ alpha: 1 }, 1000, Phaser.Easing.Bounce.InOut, true);
         };
         MainGame.prototype.update = function () {
             if (!this.game_started)

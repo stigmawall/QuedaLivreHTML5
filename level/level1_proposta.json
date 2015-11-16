@@ -1,0 +1,234 @@
+{
+    "title": "Hora de Brincar",
+    "tutorial": "Ajude Henrique a ensinar seu monstro a guardar os itens nos cestos",
+    "background": "img/bgs/prototype_bg.jpg",
+    "sprite_baskets": "img/baskets/basket_spritesheet.png",
+    "timer": 120,
+    "life":  3,
+
+    "objects":{
+        "arvore": "img/itens/Obj_Arvore_256x256px.png",
+        "boneca": "img/itens/Obj_Boneca_256x256px.png",
+        "casa":"img/itens/Obj_Casa_256x256px.png",
+        "esquilo": "img/itens/Obj_Esquilo_256x256px.png",
+        "flores" :"img/itens/Obj_Flores_256x256px.png",
+        "lapis": "img/itens/Obj_Lapis_256x256px.png",
+        "palhaco": "img/itens/Obj_Palhaco_256x256px.png",
+        "mascara": "img/itens/Obj_Mascara_256x256px.png",
+        "menina":"img/itens/Obj_Menina_256x256px.png",
+        "menino":"img/itens/Obj_Menino_256x256px.png",
+        "morango":"img/itens/Obj_Morango_256x256px.png",
+        "pato":"img/itens/Obj_Pato_256x256.png"
+    },
+
+    "questions":[
+        {
+            "question":"Classifique a árvore",
+            "correct_object":"arvore",
+            "correct_basket":"Vegetal",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Onde esse objeto não se encaixa?",
+            "correct_object":"boneca",
+            "correct_basket":"Vegetal",
+            "wrong_baskets":["Objeto", "Brinquedo", "Divertido", "Infantil", "Legal"]
+
+        },
+        {
+            "question":"Classifique a casa",
+            "correct_object":"casa",
+            "correct_basket":"Moradia",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique o esquilo",
+            "correct_object":"esquilo",
+            "correct_basket":"Animal",
+            "wrong_baskets":["Moradia", "Pessoa", "Objeto", "Boneca", "Mineral"]
+
+        },
+        {
+            "question":"Classifique as flores",
+            "correct_object":"flores",
+            "correct_basket":"Vegetal",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique o esquilo",
+            "correct_object":"esquilo",
+            "correct_basket":"Animal",
+            "wrong_baskets":["Vegetal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique o palhaco",
+            "correct_object":"palhaco",
+            "correct_basket":"Brinquedo",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique a mascara",
+            "correct_object":"mascara",
+            "correct_basket":"Objeto",
+            "wrong_baskets":["Animal", "Pessoa", "Joia", "Moradia", "Mineral", "Frio"]
+
+        },
+        {
+            "question":"Classifique a menina",
+            "correct_object":"menina",
+            "correct_basket":"Pessoa",
+            "wrong_baskets":["Animal", "Vegetal", "Objeto", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique a casa",
+            "correct_object":"casa",
+            "correct_basket":"Moradia",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique o esquilo",
+            "correct_object":"esquilo",
+            "correct_basket":"Animal",
+            "wrong_baskets":["Moradia", "Pessoa", "Objeto", "Boneca", "Mineral"]
+
+        },
+        {
+            "question":"Classifique as flores",
+            "correct_object":"flores",
+            "correct_basket":"Vegetal",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique o esquilo",
+            "correct_object":"esquilo",
+            "correct_basket":"Animal",
+            "wrong_baskets":["Vegetal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique o palhaco",
+            "correct_object":"palhaco",
+            "correct_basket":"Brinquedo",
+            "wrong_baskets":["Animal", "Pessoa", "Objeto", "Boneca", "Mineral", "Quente"]
+
+        },
+        {
+            "question":"Classifique a mascara",
+            "correct_object":"mascara",
+            "correct_basket":"Objeto",
+            "wrong_baskets":["Animal", "Pessoa", "Joia", "Moradia", "Mineral", "Frio"]
+
+        },
+        {
+            "question":"Classifique a menina",
+            "correct_object":"menina",
+            "correct_basket":"Pessoa",
+            "wrong_baskets":["Animal", "Vegetal", "Objeto", "Mineral", "Quente"]
+
+        }
+    ],
+     
+    "challenges": [
+        {
+            "monster_tween_time": 5000,
+            "baskets": 2,
+            "closing_time":2000, 
+            "adversities":[]
+        },
+
+        {
+            "monster_tween_time": 5000,
+            "baskets": 3,
+            "adversities":[]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets":3,
+            "adversities": [ ]
+        },
+        {
+            "monster_tween_time": 5000,  
+            "baskets": 4,
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 5000,
+            "baskets": 4,
+            "adversities": [ ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": 4,
+            "closing_time":4000, //closing_time é um atributo opcional, se não tiver considerar que caixas não fecham
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 5000,
+            "baskets": 4,
+            "closing_time":2000, //closing_time é um atributo opcional, se não tiver considerar que caixas não fecham
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 5000,
+            "baskets": 4,
+            "closing_time":2000, //closing_time é um atributo opcional, se não tiver considerar que caixas não fecham
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "closing_time":1000, //closing_time é um atributo opcional, se não tiver considerar que caixas não fecham
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "closing_time":1000, //closing_time é um atributo opcional, se não tiver considerar que caixas não fecham
+            "adversities": [ ]
+        },
+
+        {
+            "monster_tween_time": 4000,
+            "baskets": 4,
+            "closing_time":1000, //closing_time é um atributo opcional, se não tiver considerar que caixas não fecham
+            "adversities": [ ]
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+﻿{
+    "title": "Hora de Brincar",
+    "tutorial": "Ajude Henrique a ensinar seu monstro a guardar os itens nos cestos",
+    "background": "img/bgs/prototype_bg.jpg",
+    "sprite_baskets": "img/baskets/basket_spritesheet.png",
+    "timer": 120,
+    "life":  3,
+     
+    "challenge": [
+        {
+            "question": "Classifique a árvore",
+            "sprite_object": "img/itens/Obj_Arvore_256x256px.png",
+            "monster_tween_time": 5000,
+
+            "baskets": [
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 1, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique a boneca",
+            "sprite_object": "img/itens/Obj_Boneca_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique a casa",
+            "sprite_object": "img/itens/Obj_Casa_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o esquilo",
+            "sprite_object": "img/itens/Obj_Esquilo_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Animal", "is_correct": 1, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique as flores",
+            "sprite_object": "img/itens/Obj_Flores_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Animal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o lapis",
+            "sprite_object": "img/itens/Obj_Lapis_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": true, "closing_time": 2000 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": true, "closing_time": 2000 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": true, "closing_time": 2000 },
+                { "text": "Animal", "is_correct": 0, "can_close": true, "closing_time": 2000 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique a maça",
+            "sprite_object": "img/itens/Obj_Maca_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": true, "closing_time": 2000 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": true, "closing_time": 2000 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": true, "closing_time": 2000 },
+                { "text": "Animal", "is_correct": 0, "can_close": true, "closing_time": 2000 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique a mascara",
+            "sprite_object": "img/itens/Obj_Mascara_256x256px.png",
+            "monster_tween_time": 5000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": true, "closing_time": 2000 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": true, "closing_time": 2000 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": true, "closing_time": 2000 },
+                { "text": "Animal", "is_correct": 0, "can_close": true, "closing_time": 2000 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique a criança",
+            "sprite_object": "img/itens/Obj_Menina_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Animal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique a criança",
+            "sprite_object": "img/itens/Obj_Menino_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Animal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o morango",
+            "sprite_object": "img/itens/Obj_Morango_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Animal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o palhaço",
+            "sprite_object": "img/itens/Obj_Palhaco_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 1, "can_close": false, "closing_time": 0 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": false, "closing_time": 0 },
+                { "text": "Animal", "is_correct": 0, "can_close": false, "closing_time": 0 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o pato",
+            "sprite_object": "img/itens/Obj_Pato_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Animal", "is_correct": 1, "can_close": true, "closing_time": 1000 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o rato",
+            "sprite_object": "img/itens/Obj_Rato_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Animal", "is_correct": 1, "can_close": true, "closing_time": 1000 }
+            ],
+
+            "adversities": [ ]
+        },
+
+        {
+            "question": "Classifique o sapo",
+            "sprite_object": "img/itens/Obj_Sapo_256x256px.png",
+            "monster_tween_time": 4000,
+            
+            "baskets": [
+                { "text": "Objeto", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Pessoa", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Vegetal", "is_correct": 0, "can_close": true, "closing_time": 1000 },
+                { "text": "Animal", "is_correct": 1, "can_close": true, "closing_time": 1000 }
+            ],
+
+            "adversities": [ ]
+        }
+
+
+
+
+
+    ]
+}

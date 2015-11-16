@@ -1,0 +1,1028 @@
+{"frames": {
+
+"monstro_animado_novo0001.png":
+{
+	"frame": {"x":774,"y":401,"w":122,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0002.png":
+{
+	"frame": {"x":908,"y":215,"w":124,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":124,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0003.png":
+{
+	"frame": {"x":648,"y":399,"w":124,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":124,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0004.png":
+{
+	"frame": {"x":511,"y":488,"w":122,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":122,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0005.png":
+{
+	"frame": {"x":759,"y":570,"w":121,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":121,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0006.png":
+{
+	"frame": {"x":748,"y":931,"w":118,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":118,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0007.png":
+{
+	"frame": {"x":994,"y":836,"w":112,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":112,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0008.png":
+{
+	"frame": {"x":630,"y":758,"w":120,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0009.png":
+{
+	"frame": {"x":519,"y":317,"w":127,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":127,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0010.png":
+{
+	"frame": {"x":131,"y":215,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0011.png":
+{
+	"frame": {"x":261,"y":214,"w":128,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":128,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0012.png":
+{
+	"frame": {"x":510,"y":574,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0013.png":
+{
+	"frame": {"x":129,"y":914,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0014.png":
+{
+	"frame": {"x":380,"y":714,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0015.png":
+{
+	"frame": {"x":507,"y":662,"w":122,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":122,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0016.png":
+{
+	"frame": {"x":882,"y":578,"w":121,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":121,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0017.png":
+{
+	"frame": {"x":874,"y":769,"w":118,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":118,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0018.png":
+{
+	"frame": {"x":992,"y":920,"w":112,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":112,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0019.png":
+{
+	"frame": {"x":629,"y":842,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0020.png":
+{
+	"frame": {"x":519,"y":317,"w":127,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":127,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0021.png":
+{
+	"frame": {"x":131,"y":215,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0022.png":
+{
+	"frame": {"x":261,"y":214,"w":128,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":128,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0023.png":
+{
+	"frame": {"x":510,"y":574,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0024.png":
+{
+	"frame": {"x":129,"y":914,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0025.png":
+{
+	"frame": {"x":380,"y":714,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0026.png":
+{
+	"frame": {"x":507,"y":662,"w":122,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":122,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0027.png":
+{
+	"frame": {"x":882,"y":578,"w":121,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":121,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0028.png":
+{
+	"frame": {"x":874,"y":769,"w":118,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":118,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0029.png":
+{
+	"frame": {"x":992,"y":920,"w":112,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":112,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0030.png":
+{
+	"frame": {"x":629,"y":842,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0031.png":
+{
+	"frame": {"x":519,"y":317,"w":127,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":127,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0032.png":
+{
+	"frame": {"x":131,"y":215,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0033.png":
+{
+	"frame": {"x":261,"y":214,"w":128,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":128,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0034.png":
+{
+	"frame": {"x":510,"y":574,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0035.png":
+{
+	"frame": {"x":129,"y":914,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0036.png":
+{
+	"frame": {"x":898,"y":406,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0037.png":
+{
+	"frame": {"x":506,"y":749,"w":122,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":122,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0038.png":
+{
+	"frame": {"x":1005,"y":579,"w":121,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":121,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0039.png":
+{
+	"frame": {"x":872,"y":854,"w":118,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":118,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0040.png":
+{
+	"frame": {"x":992,"y":920,"w":112,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":112,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0041.png":
+{
+	"frame": {"x":629,"y":842,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0042.png":
+{
+	"frame": {"x":519,"y":317,"w":127,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":127,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0043.png":
+{
+	"frame": {"x":129,"y":300,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0044.png":
+{
+	"frame": {"x":259,"y":301,"w":128,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":128,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0045.png":
+{
+	"frame": {"x":505,"y":836,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0046.png":
+{
+	"frame": {"x":519,"y":401,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0047.png":
+{
+	"frame": {"x":380,"y":714,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0048.png":
+{
+	"frame": {"x":507,"y":662,"w":122,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":122,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0049.png":
+{
+	"frame": {"x":882,"y":578,"w":121,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":121,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0050.png":
+{
+	"frame": {"x":874,"y":769,"w":118,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":118,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0051.png":
+{
+	"frame": {"x":992,"y":920,"w":112,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":112,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0052.png":
+{
+	"frame": {"x":629,"y":842,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0053.png":
+{
+	"frame": {"x":519,"y":317,"w":127,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":127,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0054.png":
+{
+	"frame": {"x":131,"y":215,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0055.png":
+{
+	"frame": {"x":261,"y":214,"w":128,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":128,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0056.png":
+{
+	"frame": {"x":510,"y":574,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0057.png":
+{
+	"frame": {"x":129,"y":914,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0058.png":
+{
+	"frame": {"x":380,"y":714,"w":124,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":124,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0059.png":
+{
+	"frame": {"x":507,"y":662,"w":122,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":30,"w":122,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0060.png":
+{
+	"frame": {"x":882,"y":578,"w":121,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":121,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0061.png":
+{
+	"frame": {"x":872,"y":854,"w":118,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":32,"w":118,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0062.png":
+{
+	"frame": {"x":1023,"y":301,"w":112,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":33,"w":112,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0063.png":
+{
+	"frame": {"x":626,"y":927,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0064.png":
+{
+	"frame": {"x":650,"y":211,"w":127,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":127,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0065.png":
+{
+	"frame": {"x":131,"y":215,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0066.png":
+{
+	"frame": {"x":261,"y":214,"w":128,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":128,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0067.png":
+{
+	"frame": {"x":510,"y":574,"w":122,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":28,"w":122,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0068.png":
+{
+	"frame": {"x":503,"y":924,"w":121,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":29,"w":121,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0069.png":
+{
+	"frame": {"x":2,"y":760,"w":125,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":125,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0070.png":
+{
+	"frame": {"x":2,"y":219,"w":125,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":125,"h":106},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0071.png":
+{
+	"frame": {"x":909,"y":110,"w":125,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":12,"w":125,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0072.png":
+{
+	"frame": {"x":255,"y":808,"w":124,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":13,"w":124,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0073.png":
+{
+	"frame": {"x":381,"y":801,"w":122,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":11,"w":122,"h":105},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0074.png":
+{
+	"frame": {"x":382,"y":908,"w":119,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":9,"w":119,"h":107},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0075.png":
+{
+	"frame": {"x":127,"y":596,"w":124,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":12,"w":124,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0076.png":
+{
+	"frame": {"x":651,"y":2,"w":127,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":127,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0077.png":
+{
+	"frame": {"x":131,"y":2,"w":128,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":128,"h":105},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0078.png":
+{
+	"frame": {"x":2,"y":111,"w":127,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":127,"h":106},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0079.png":
+{
+	"frame": {"x":128,"y":491,"w":125,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":12,"w":125,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0080.png":
+{
+	"frame": {"x":383,"y":506,"w":125,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":125,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0081.png":
+{
+	"frame": {"x":2,"y":866,"w":125,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":125,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0082.png":
+{
+	"frame": {"x":2,"y":436,"w":124,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":124,"h":106},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0083.png":
+{
+	"frame": {"x":128,"y":385,"w":125,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":12,"w":125,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0084.png":
+{
+	"frame": {"x":899,"y":301,"w":122,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":13,"w":122,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0085.png":
+{
+	"frame": {"x":757,"y":655,"w":119,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":11,"w":119,"h":105},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0086.png":
+{
+	"frame": {"x":2,"y":544,"w":123,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":9,"w":123,"h":107},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0087.png":
+{
+	"frame": {"x":131,"y":109,"w":128,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":128,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0088.png":
+{
+	"frame": {"x":391,"y":2,"w":128,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":128,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0089.png":
+{
+	"frame": {"x":391,"y":107,"w":127,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":127,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0090.png":
+{
+	"frame": {"x":907,"y":2,"w":124,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":124,"h":106},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0091.png":
+{
+	"frame": {"x":520,"y":212,"w":126,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":126,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0092.png":
+{
+	"frame": {"x":380,"y":610,"w":125,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":125,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0093.png":
+{
+	"frame": {"x":129,"y":702,"w":124,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":124,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0094.png":
+{
+	"frame": {"x":2,"y":327,"w":124,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":9,"w":124,"h":107},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0095.png":
+{
+	"frame": {"x":255,"y":702,"w":123,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":12,"w":123,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0096.png":
+{
+	"frame": {"x":878,"y":664,"w":119,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":13,"w":119,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0097.png":
+{
+	"frame": {"x":2,"y":653,"w":123,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":11,"w":123,"h":105},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0098.png":
+{
+	"frame": {"x":2,"y":2,"w":127,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":127,"h":107},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0099.png":
+{
+	"frame": {"x":261,"y":2,"w":128,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":128,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0100.png":
+{
+	"frame": {"x":780,"y":110,"w":127,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":127,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0101.png":
+{
+	"frame": {"x":129,"y":808,"w":124,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":124,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0102.png":
+{
+	"frame": {"x":780,"y":2,"w":125,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":125,"h":106},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0103.png":
+{
+	"frame": {"x":255,"y":388,"w":126,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":126,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0104.png":
+{
+	"frame": {"x":648,"y":295,"w":124,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":13,"w":124,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0105.png":
+{
+	"frame": {"x":1017,"y":493,"w":120,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":32,"w":120,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0106.png":
+{
+	"frame": {"x":999,"y":751,"w":116,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":116,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0107.png":
+{
+	"frame": {"x":1024,"y":385,"w":111,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":34,"w":111,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0108.png":
+{
+	"frame": {"x":751,"y":847,"w":119,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":34,"w":119,"h":82},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0109.png":
+{
+	"frame": {"x":779,"y":214,"w":127,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":35,"w":127,"h":81},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0110.png":
+{
+	"frame": {"x":389,"y":317,"w":128,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":33,"w":128,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0111.png":
+{
+	"frame": {"x":999,"y":665,"w":120,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":31,"w":120,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0112.png":
+{
+	"frame": {"x":645,"y":485,"w":122,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":34,"w":122,"h":81},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0113.png":
+{
+	"frame": {"x":769,"y":488,"w":122,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":36,"w":122,"h":80},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0114.png":
+{
+	"frame": {"x":893,"y":493,"w":122,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":33,"w":122,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0115.png":
+{
+	"frame": {"x":752,"y":762,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":33,"w":120,"h":83},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0116.png":
+{
+	"frame": {"x":774,"y":297,"w":123,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":14,"w":123,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0117.png":
+{
+	"frame": {"x":634,"y":654,"w":121,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":14,"w":121,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0118.png":
+{
+	"frame": {"x":253,"y":597,"w":125,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":125,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0119.png":
+{
+	"frame": {"x":261,"y":108,"w":128,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":128,"h":104},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0120.png":
+{
+	"frame": {"x":521,"y":2,"w":128,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":128,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0121.png":
+{
+	"frame": {"x":520,"y":107,"w":128,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":128,"h":103},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0122.png":
+{
+	"frame": {"x":650,"y":107,"w":128,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":128,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0123.png":
+{
+	"frame": {"x":391,"y":213,"w":127,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":14,"w":127,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0124.png":
+{
+	"frame": {"x":255,"y":913,"w":125,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":125,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0125.png":
+{
+	"frame": {"x":383,"y":402,"w":126,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":14,"w":126,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0126.png":
+{
+	"frame": {"x":255,"y":493,"w":126,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":14,"w":126,"h":102},
+	"sourceSize": {"w":128,"h":128}
+},
+"monstro_animado_novo0127.png":
+{
+	"frame": {"x":635,"y":568,"w":122,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":33,"w":122,"h":84},
+	"sourceSize": {"w":128,"h":128}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "monster_sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":1139,"h":1017},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0561de8bfa6df0cc98f30df6b6bbb44b:e2170d45bf7d6550dbf3d98b2e26f86f:e9758111b7bd036e52f1298e4975d5ff$"
+}
+}

@@ -1,0 +1,302 @@
+﻿{
+    "title": "Hora de Brincar",
+    "tutorial": "Ensine ao monstrinho onde guardar cada objeto que ele carrega! Para isso espere que ele fique alinhando com a caixa que possui a resposta certa e toque nele (o fazendo soltar o objeto). Mas cuidado com o vento, e com as caixas que abrem e fecham!",
+    "background": "img/bgs/prototype_bg.jpg",
+    "sprite_baskets": "img/baskets/basket_spritesheet.png",
+    "timer": 120,
+    "life": 5,
+
+    "challenge": [
+        {
+            "question": "Classifique a árvore",
+            "sprite_object": "img/itens/Obj_Arvore_256x256px.png",
+            "right_basket": "Vegetal",
+            "wrong_baskets": [ "Pessoa", "Animal", "Objeto" ]
+        },
+
+        {
+            "question": "Classifique a boneca",
+            "sprite_object": "img/itens/Obj_Boneca_256x256px.png",
+            "right_basket": "Objeto",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique a casa",
+            "sprite_object": "img/itens/Obj_Casa_256x256px.png",
+            "right_basket": "Objeto",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o esquilo",
+            "sprite_object": "img/itens/Obj_Esquilo_256x256px.png",
+            "right_basket": "Animal",
+            "wrong_baskets": [ "Pessoa", "Objeto", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique as flores",
+            "sprite_object": "img/itens/Obj_Flores_256x256px.png",
+            "right_basket": "Vegetal",
+            "wrong_baskets": [ "Pessoa", "Animal", "Objeto" ]
+        },
+
+        {
+            "question": "Classifique o lapis",
+            "sprite_object": "img/itens/Obj_Lapis_256x256px.png",
+            "right_basket": "Objeto",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique a maça",
+            "sprite_object": "img/itens/Obj_Maca_256x256px.png",
+            "right_basket": "Fruta",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique a mascara",
+            "sprite_object": "img/itens/Obj_Mascara_256x256px.png",
+            "right_basket": "Objeto",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique a menina",
+            "sprite_object": "img/itens/Obj_Menina_256x256px.png",
+            "right_basket": "Pessoa",
+            "wrong_baskets": [ "Objeto", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o menino",
+            "sprite_object": "img/itens/Obj_Menino_256x256px.png",
+            "right_basket": "Pessoa",
+            "wrong_baskets": [ "Objeto", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o morango",
+            "sprite_object": "img/itens/Obj_Morango_256x256px.png",
+            "right_basket": "Fruta",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o palhaço",
+            "sprite_object": "img/itens/Obj_Palhaco_256x256px.png",
+            "right_basket": "Objeto",
+            "wrong_baskets": [ "Pessoa", "Animal", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o pato",
+            "sprite_object": "img/itens/Obj_Pato_256x256px.png",
+            "right_basket": "Animal",
+            "wrong_baskets": [ "Pessoa", "Objeto", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o rato",
+            "sprite_object": "img/itens/Obj_Rato_256x256px.png",
+            "right_basket": "Animal",
+            "wrong_baskets": [ "Pessoa", "Objeto", "Vegetal" ]
+        },
+
+        {
+            "question": "Classifique o sapo",
+            "sprite_object": "img/itens/Obj_Sapo_256x256px.png",
+            "right_basket": "Animal",
+            "wrong_baskets": [ "Pessoa", "Objeto", "Vegetal" ]
+        }
+
+
+    ],
+
+
+    "level_design_sequence": [
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": true, "closing_time": 4000 },
+                { "can_close": true, "closing_time": 4000 },
+                { "can_close": true, "closing_time": 4000 },
+                { "can_close": true, "closing_time": 4000 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": true, "closing_time": 2000 },
+                { "can_close": true, "closing_time": 2000 },
+                { "can_close": true, "closing_time": 2000 },
+                { "can_close": true, "closing_time": 2000 }
+            ]
+        },
+        {
+            "monster_tween_time": 5000,
+            "baskets": [
+                { "can_close": true, "closing_time": 2000 },
+                { "can_close": true, "closing_time": 2000 },
+                { "can_close": true, "closing_time": 2000 },
+                { "can_close": true, "closing_time": 2000 }
+            ]
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": false,
+                "flip_vertical": false,
+                "exit_order": [ 2, 3, 0, 4, 1 ],
+                "time_on_pipe": 2000
+            }
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": true,
+                "flip_vertical": false,
+                "exit_order": [ 3, 0, 4, 1, 2 ],
+                "time_on_pipe": 2000
+            }
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": false,
+                "flip_vertical": true,
+                "exit_order": [ 2,4,0,1,3 ],
+                "time_on_pipe": 2000
+            }
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 },
+                { "can_close": false, "closing_time": 0 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": true,
+                "flip_vertical": true,
+                "exit_order": [ 1,3,4,0,2 ],
+                "time_on_pipe": 2000
+            }
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": true,
+                "flip_vertical": false,
+                "exit_order": [ 3, 0, 4, 1, 2 ],
+                "time_on_pipe": 2000
+            }
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": false,
+                "flip_vertical": true,
+                "exit_order": [ 2,4,0,1,3 ],
+                "time_on_pipe": 2000
+            }
+        },
+        {
+            "monster_tween_time": 4000,
+            "baskets": [
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 },
+                { "can_close": true, "closing_time": 1000 }
+            ],
+            "pipes": {
+                "pipe_base": "img/pipes/pipe_base.png",
+                "flip_horizontal": false,
+                "flip_vertical": false, 
+                "exit_order": [ 2, 3, 0, 4, 1 ],
+                "time_on_pipe": 2000
+            }
+        }
+    ]
+
+}
